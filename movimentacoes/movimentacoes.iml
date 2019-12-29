@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://$MODULE_DIR$/lib/commons-beanutils-1.8.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/commons-collections-2.1.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/commons-digester-2.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/commons-logging-1.1.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/iText-2.1.7.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/jasperreports-4.7.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/jcommon-1.0.15.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/jfreechart-1.0.12.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/mysql-connector-java-5.1.7-bin.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/poi-3.7-20101029.jar!/" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="module-library">
+      <library name="commons-beanutils-1.8.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/commons-beanutils-1.8.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-collections-2.1.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/commons-collections-2.1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-digester-2.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/commons-digester-2.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-logging-1.1.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/commons-logging-1.1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="iText-2.1.7.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/iText-2.1.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jasperreports-4.7.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/jasperreports-4.7.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file:///Users/admin/Documents/JASPER/JASPER-downloads/jasperreports-4.7.0/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jcommon-1.0.15.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/jcommon-1.0.15.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jfreechart-1.0.12.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/jfreechart-1.0.12.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="mysql-connector-java-5.1.7-bin.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/mysql-connector-java-5.1.7-bin.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="poi-3.7-20101029.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/poi-3.7-20101029.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="jasperreports-6.11.0" level="project" />
+    <orderEntry type="library" name="mysql-connector-java-8.0.18" level="project" />
+  </component>
+</module>
